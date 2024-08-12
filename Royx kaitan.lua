@@ -33,7 +33,7 @@ _G.KaitunConfig = {
 
     ["white screen"] = false, -- will go white on not focus
 
-    ["Ui Screen"] = true,
+    ["Ui Screen"] = false,
 
     ["LimitFragment"] = 100000,
 
